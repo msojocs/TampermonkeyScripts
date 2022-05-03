@@ -1,0 +1,29 @@
+POST https://content.hpgamestream.com/api/imagegallery/useractions/image/like/id/045426ae-cfd7-4e05-a6e5-fbe4bb767798 HTTP/1.1
+User-Agent: Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0)
+Authorization: Bearer eyJhbGciOiJSUzI1NiIsImtpZCI6Im9tZW5jYy1wcm9kIiwidHlwIjoiSldUIn0.eyJhdWQiOlsiaHR0cHM6Ly9vbWVuY2MtcHJvZC5ocGJwLmlvIiwiaHR0cDovL2xvY2FsaG9zdDozMDAwIl0sImNsaWVudF9pZCI6IjEzMGQ0M2YxLWJiMjItNGE5Yy1iYTQ4LWQ1NzQzZTg0ZDExMyIsImV4cCI6MTY0NzQ0MDIwNCwiaHBpZF91c2VyX2lkIjoieTlkcDYxZXl5YXplN3c2aHh4aW10bnI1dGhncjVzYzUiLCJpYXQiOjE2NDc0MzQ4MDQsImlzcyI6Im9hdXRoLmhwYnAuaW8iLCJqdGkiOiJlM2Q2NDhlNC05N2E4LTQ0ZDctYmNlOC0zMzNjZjVlMmJhODgiLCJzY3AiOlsib2ZmbGluZSIsIm9mZmxpbmVfYWNjZXNzIiwiZW1haWwiLCJwcm9maWxlIiwib3BlbmlkIiwidXNlci5wcm9maWxlLndyaXRlIiwidXNlci5wcm9maWxlLnVzZXJuYW1lIiwidXNlci5wcm9maWxlLnJlYWQiXSwic3ViIjoiZWYwZDhjNTYtZjI2Ni00Njg4LThkMGQtNWMwZTVmNDMzMmQ4IiwidGVuYW50X2lkIjoib21lbmNjLXByb2QiLCJ0eXBlIjoidXNlciIsInVzZXJfaWQiOiJlZjBkOGM1Ni1mMjY2LTQ2ODgtOGQwZC01YzBlNWY0MzMyZDgifQ.ScWwQk3iR0njYjTu03VNM7hcr-tWxF8K53645j9eZEzCIvApBrlPoZ98WajfMuViC4N6G4zFIE71YIBi8bnBEdC7VKhQj8Gl-jcL-4Ok2rHVz2lkdk644I6HJfsBjMSB3w5hHUzfIyHTVuY2OH8qzNhTyUX_4DZAdN8Q5R9eTpG86SH0t6MOH23CGIRvXJvsMLDm2EO2ikjzvR6c3R2IzIzXsHVz71dQcbWjKloA4UWKB2RAjny40HMgs-jtWL5Ji8ZO3MS5mSc6IXq7Cvm4cxLXaHbvDBDUcSOnlE963EW8fqqO0TY64ZjHclN6BrXl8912cybSdBT_yirdVBeC1A
+Content-Type: application/json
+Accept: application/json
+Host: content.hpgamestream.com
+Content-Length: 16
+Expect: 100-continue
+Connection: Keep-Alive
+
+{"like":"False"}
+HTTP/1.1 200
+Content-Type: application/json;charset=UTF-8
+Connection: keep-alive
+Date: Wed, 16 Mar 2022 12:55:03 GMT
+Correlation-ID: c79d5cad-fb24-4aa4-bc4b-354b66427e4f
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Expires: Fri, 01 Jan 1990 00:00:00 GMT
+Pragma: no-cache
+Strict-Transport-Security: max-age=631138519; includeSubDomains
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1
+X-Cache: Miss from cloudfront
+Via: 1.1 db929e55bb40b085896b8e336fba2ab6.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: LAX3-C3
+X-Amz-Cf-Id: ymLCR468BCKS8gV1_ZBjVA0hVwEeFeRrEa6ysUeRgqveuzkBHx3vDQ==
+Content-Length: 37
+
+{"likeCount":2338,"likeStatus":false}
